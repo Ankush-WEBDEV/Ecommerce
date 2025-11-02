@@ -79,7 +79,7 @@ export const Footer = (props) => {
     </div>
     <p className='mt-16'>Designed & Developed By <span className='text-blue-600 font-semibold'> Ankush</span></p>
     <div className='text-white text-center border-t py-2 h-1'>
-        <p className="text-sm bottom-0 " >T-ShirtLelo.com © 2024 - 2025 All rights reserved</p>
+        <p className="text-sm bottom-0 " >T-ShirtLelo.com © 2025-2026 All rights reserved</p>
     </div>
 
    </footer>
